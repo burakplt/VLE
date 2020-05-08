@@ -1,6 +1,6 @@
 # VLE
 Vapor-Liquid Equilibrium calculator with ChemSep chemical database.
-
+***Read Wiki page for further information***
 I created this module originally as a part of Django Web application project. I will modify them in time and update this repository.
 
 Before running any command, you have to create chemical object pickles to increase run-time performance. As long as the project folder 
